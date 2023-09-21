@@ -1,5 +1,5 @@
 # Introduction
-This GitHub repository contains information about the indicators of the Teams Phishing attack. Which we have used in our [blog](https://www.eye.security/blog/microsoft-teams-chat-the-rising-phishing-threat-and-how-to-stop-it).
+This GitHub repository contains information about the indicators of the Teams Phishing attack. Which we have used in our [blog](https://www.eye.security/blog/microsoft-teams-chat-the-rising-phishing-threat-and-how-to-stop-it). It also contains helpful queries to hunt for this attack and find traces of the attack.
 
 # Indicators of Comprimise
 The following list of indicators can be used to prepare your detection systems for a similar attack. Please note that these indicators will change over time, relatively quickly.
